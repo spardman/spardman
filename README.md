@@ -8,12 +8,13 @@
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dwan-edwards/)**
 
 ---
-
 ### 🏆 TryHackMe Stats
-![TryHackMe Stats](https://githubusercontent.com)
+<a href="https://tryhackme.com">
+  <img src="https://amazonaws.com" alt="TryHackMe Badge">
+</a>
 
 ---
 
 ### 📊 GitHub Activity
 ![spardman's GitHub stats](https://vercel.app)
-[![TryHackMe](https://amazonaws.com)](https://tryhackme.com)
+
