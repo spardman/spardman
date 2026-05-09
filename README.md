@@ -1,5 +1,5 @@
 # Hi there, I'm Dwan Edwards 👋
-
+---
 ### 🛡️ Cyber Security Enthusiast | Ethical Hacker
 
 - 🔭 I’m currently working on **TryHackMe Labs**
@@ -8,13 +8,13 @@
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/dwan-edwards/)**
 
 ---
+
 ### 🏆 TryHackMe Stats
-<a href="https://tryhackme.com">
-  <img src="https://amazonaws.com" alt="TryHackMe Badge">
-</a>
+[![TryHackMe](https://amazonaws.com)](https://tryhackme.com)
 
 ---
 
 ### 📊 GitHub Activity
 ![spardman's GitHub stats](https://vercel.app)
+
 
