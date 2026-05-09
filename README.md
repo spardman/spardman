@@ -10,11 +10,12 @@
 ---
 
 ### 🏆 TryHackMe Stats
-[![TryHackMe](https://amazonaws.com)](https://tryhackme.com)
+<img src="https://amazonaws.com" width="300">
 
 ---
 
 ### 📊 GitHub Activity
-![spardman's GitHub stats](https://vercel.app)
+<img src="https://vercel.app" width="400">
+
 
 
