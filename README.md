@@ -14,9 +14,10 @@
 ---
 
 ### 📂 GitHub Activity
-<p align="center">
-  <img src="https://vercel.app" alt="Dwan's GitHub Stats" />
-</p>
+### 📂 GitHub Activity
+![GitHub Stats](https://shields.io)
+![GitHub Repo Count](https://shields.io)
+
 
 
 
