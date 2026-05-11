@@ -1,22 +1,25 @@
 # Hi there, I'm Dwan Edwards 👋
 
 ### 🛡️ Cyber Security Enthusiast | Ethical Hacker
-* 🧪 I’m currently working on TryHackMe Labs
-* 🌱 I’m currently learning Network Security & PenTesting
+* 🧪 I'm currently working on TryHackMe Labs
+* 🎓 I'm currently learning Network Security & PenTesting
 * 💬 Ask me about Cybersecurity or Linux
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dwan-edwards/)
+* 📫 How to reach me: [LinkedIn](https://linkedin.com) | [Portfolio Website](https://github.com)
 
 ---
 
 ### 🏆 TryHackMe Stats
-![TryHackMe Badge](assets/badge.png)
+[![TryHackMe Badge](https://tryhackme.com)](https://tryhackme.com)
 
 ---
 
 ### 📂 GitHub Activity
-### 📂 GitHub Activity
-![GitHub Stats](https://shields.io)
-![GitHub Repo Count](https://shields.io)
+* **GitHub Profile:** [spardman](https://github.com)
+* **View My Full Stats:** [![GitHub Stats](https://vercel.app)](https://github.com)
+* **Repositories:** 12 Public Repos
+
+
+
 
 
 
