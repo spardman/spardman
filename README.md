@@ -14,7 +14,7 @@
 ---
 
 ### 📂 GitHub Activity
-![My Stats](https://vercel.app)
+![Dwan's GitHub stats](https://vercel.app)
 
 
 
