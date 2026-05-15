@@ -9,13 +9,13 @@
 ---
 
 ### 🏆 TryHackMe Stats
-[![TryHackMe Badge](https://tryhackme.com)](https://tryhackme.com)
+[![TryHackMe Badge](https://amazonaws.com)](https://tryhackme.com/p/dwaedwards)
 
 ---
 
 ### 📂 GitHub Activity
 * **GitHub Profile:** [spardman](https://github.com)
-* **View My Full Stats:** [![GitHub Stats](https://vercel.app)](https://github.com)
+* **View My Full Stats:** [![GitHub Stats](https://vercel.app)](https://github.com/spardman)
 * **Repositories:** 12 Public Repos
 
 
