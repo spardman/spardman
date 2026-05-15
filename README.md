@@ -9,7 +9,7 @@
 ---
 
 ### 🏆 TryHackMe Stats
-[![TryHackMe Badge](https://amazonaws.com)](https://tryhackme.com/p/dwaedwards)
+[![TryHackMe Badge](https://amazonaws.com)](https://tryhackme.com)
 
 ---
 
