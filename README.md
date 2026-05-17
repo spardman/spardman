@@ -14,7 +14,7 @@
 ---
 
 ### 📂 GitHub Activity
-* **GitHub Profile:** [spardman](https://github.com)
+* **GitHub Profile:** [spardman](https://github.com/spardman/spardman.github.io)
 * **View My Full Stats:** [Visit My GitHub Public Profile Dashboard](https://github.com)
 * **Repositories:** 12 Public Repos
 
