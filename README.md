@@ -4,7 +4,7 @@
 * 🧪 I'm currently working on TryHackMe Labs
 * 🎓 I'm currently learning Network Security & PenTesting
 * 💬 Ask me about Cybersecurity or Linux
-* 📫 How to reach me: [LinkedIn](https://linkedin.com) | [Portfolio Website](https://github.com)
+* 📫 How to reach me: [LinkedIn](https://linkedin.com) | [Portfolio Website](https://spardman.github.io/enterprise-grc-risk-model/)
 
 ---
 
