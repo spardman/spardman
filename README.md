@@ -15,7 +15,7 @@
 
 ### 📂 GitHub Activity
 * **GitHub Profile:** [spardman](https://github.com/spardman/spardman.github.io)
-* **View My Full Stats:** [Visit My Live Tableau Asset Architecture Dashboard](https://tableau.com)
+* **View My Full Stats:** [Visit My Live Tableau Asset Architecture Dashboard](https://public.tableau.com/app/profile/dwan.edwards/viz/Spardman_Asset_Project/Sheet1)
 * **Repositories:** 12 Public Repos
 
 
