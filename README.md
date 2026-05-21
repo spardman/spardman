@@ -15,7 +15,7 @@
 
 ### 📂 GitHub Activity
 * **GitHub Profile:** [spardman](https://github.com/spardman/spardman.github.io)
-* **View My Full Stats:** [Visit My GitHub Public Profile Dashboard](https://github.com)
+* **View My Full Stats:** [Visit My Live Tableau Asset Architecture Dashboard](https://tableau.com)
 * **Repositories:** 12 Public Repos
 
 
