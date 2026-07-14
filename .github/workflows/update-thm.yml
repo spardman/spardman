@@ -1,16 +1,32 @@
 name: Update THM Badge
+
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
 jobs:
   update-badge:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: p4p1/tryhackme-badge-workflow@main
-        with:
-          username: "spardman"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Profile Badge
+        run: |
+          curl -s https://amazonaws.com -o thm-badge.png
+          
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add thm-badge.png
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update TryHackMe Badge" && git push)
+
+      - name: Prevent Workflow Inactivity Timeout
+        if: github.event_name == 'schedule'
+        uses: liskin/gh-workflow-keepalive@v1
